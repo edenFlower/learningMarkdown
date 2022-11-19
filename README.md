@@ -8,3 +8,4 @@ This repository is to store the NLP learning lesson's markdown.
 ## not neccessory git config --global http.proxy
 ## not neccessory git config --global --unset http.proxy
 ## git push -u origin main
+如果vscode里面不能push，使用上面两条not necessarory的命令，可以很好的解决问题。
